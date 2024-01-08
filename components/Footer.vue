@@ -1,0 +1,10 @@
+<template>
+  <h1>フッターコンポーネント</h1>
+  <nav>
+    <ul>
+      <li>
+        ナビゲーション
+      </li>
+    </ul>
+  </nav>
+</template>

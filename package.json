@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "npx nuxt build",
+    "dev": "npx nuxt dev",
+    "generate": "npx nuxt generate",
+    "preview": "npx nuxt preview",
+    "postinstall": "npx nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.4.1"
+  },
+  "dependencies": {
+    "vue": "^3.4.5"
+  }
+}
